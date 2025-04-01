@@ -1,0 +1,20 @@
+//Type safety
+/*
+
+Nodejs mainly converts our typescript code to javascript code because browser understands only javascript code.
+
+Install typescript globally using the command:
+npm install -g typescript
+
+*/
+
+/*
+
+Typescript Setup
+Setting up a Typescript project
+Configuring tsconfig.json file --> tsc --init
+Compiling Typescript code to Javascript --> tsc app.ts
+
+
+for continuous execution --> tsc --watch
+*/
